@@ -1,4 +1,4 @@
-package gfalbarracinr.code.Decorator;
+package menoguerar.code.Decorator;
 
 public class Z extends D {
 
